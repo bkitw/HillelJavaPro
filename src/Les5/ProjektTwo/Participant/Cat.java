@@ -1,4 +1,4 @@
-package Les4.Les5.ProjektTwo.Participant;
+package Les5.ProjektTwo.Participant;
 
 public class Cat extends Participant {
 

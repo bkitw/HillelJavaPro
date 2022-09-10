@@ -1,4 +1,4 @@
-package Les4.Les5.ProjektTwo.Obstacle;
+package Les5.ProjektTwo.Obstacle;
 
 public class Wall extends Obstacle {
     private final int HEIGHT;

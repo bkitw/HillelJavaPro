@@ -1,13 +1,13 @@
-package Les4.Les5.ProjektTwo;
+package Les5.ProjektTwo;
 
 
-import Les4.Les5.ProjektTwo.Obstacle.Obstacle;
-import Les4.Les5.ProjektTwo.Obstacle.Treadmil;
-import Les4.Les5.ProjektTwo.Obstacle.Wall;
-import Les4.Les5.ProjektTwo.Participant.Cat;
-import Les4.Les5.ProjektTwo.Participant.Human;
-import Les4.Les5.ProjektTwo.Participant.Participant;
-import Les4.Les5.ProjektTwo.Participant.Robot;
+import Les5.ProjektTwo.Obstacle.Obstacle;
+import Les5.ProjektTwo.Obstacle.Treadmil;
+import Les5.ProjektTwo.Obstacle.Wall;
+import Les5.ProjektTwo.Participant.Cat;
+import Les5.ProjektTwo.Participant.Human;
+import Les5.ProjektTwo.Participant.Participant;
+import Les5.ProjektTwo.Participant.Robot;
 
 public class Main {
     public static void main(String[] args) {
