@@ -35,3 +35,5 @@ public class Employee {
         return age;
     }
 }
+
+print("Я зайшов сюди за даними для свого дз, а в ітогє пішу тєбє, вот."
